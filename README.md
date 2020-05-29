@@ -1,12 +1,23 @@
-# Spectrum Data-Science / Machine-Learning Internship Project Report
+# Spectrum Data Science and Machine Learning Internship Project Report
 
 ## About the Project:
 
-This Project
+In this project, I have built a **Student Grade Prediction Machine Learning Model** based on the student’s data and previous marks.
+
+I imported different libraries like
+    1. numpy,
+    2. pandas,
+    3. sklearn,
+    4. statsmodel.api,
+    5. seaborn.
+
+After that I preprocessed the data in the dataset, and changed the binary valued attributes into 0 or 1, nominal valued attributes into encoded values.
+Then used various Machine Learning models like Linear Regression, Decision Tree Regression, Random Forest Regression.
+And plotted the various insights from the model, I built.
 
 ## Techniques used in Final Task of the internship:
 
-#### 1. Multiple Linear Regression
+#### 1. Linear Regression
 
 ##### Results:
 Train Score:  0.97592
