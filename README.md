@@ -1,4 +1,8 @@
-# Spectrum Data-Science / Machine-Learning Internship Report
+# Spectrum Data-Science / Machine-Learning Internship Project Report
+
+## About the Project:
+
+This Project
 
 ## Techniques used in Final Task of the internship:
 
@@ -11,7 +15,7 @@ Test Score:  0.96157
 
 Predict Score:  0.99778
 
-##### Plots:
+##### Plot:
 
 ![Test Image 7](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Final_Task_Plot.png)
 
@@ -24,7 +28,7 @@ Test Score:  0.94715
 
 Predict Score:  1.0
 
-##### Plots:
+##### Plot:
 
 ![Test Image 8](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Final_Task_Plot_DecisionTree.png)
 
@@ -37,7 +41,7 @@ Test Score:  0.97113
 
 Predict Score:  0.99743
 
-##### Plots:
+##### Plot:
 
 ![Test Image 9](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Final_Task_Plot_RandomForest.png)
 
