@@ -2,9 +2,9 @@
 
 ## About the Project:
 
-In this project, I have built a **Student Grade Prediction Machine Learning Model** based on the student’s data and previous marks.
+In this internship, I have built a **Student Grade Prediction Machine Learning Model Project** based on the student’s data and their previous marks.
 
-I imported different libraries like:
+I imported different machine learning libraries like:
     
     1. numpy,
     
@@ -16,19 +16,23 @@ I imported different libraries like:
     
     5. seaborn.
 
-After that I preprocessed the data in the dataset, and changed the binary valued attributes into 0 or 1, nominal valued attributes into encoded values.
+There I also added the three marks in the subjects of 'G1', 'G2' and 'G3' and initialized the summation of them with another column called as 'final_grade'.
+
+After that, I preprocessed the data in the dataset, and changed the binary valued attributes into 0 or 1, nominal valued attributes into encoded values.
 
 Then used various Machine Learning models like Linear Regression, Decision Tree Regression, Random Forest Regression.
 
-And plotted the various insights from the model, I built.
+Then plotted the various insights from the model, I built.
 
-Atlast, determined various scores of the the regression like:
+And determined various scores of the the regression like:
         
         1. Train Score : Score between X_train, y_train variables,
         
         2. Test Score : Score between X_test, y_test variables,
         
         3. Predict Score : Score between X_test, y_pred variables.
+        
+Atlast, in Linear Regression I used Ordinary Least Square(OLS) method for Backward Elimination of the attributes to find out which attributes affected the most.
 
 ## Future Development of the Project:
 
@@ -103,8 +107,8 @@ Atlast, determined various scores of the the regression like:
 #### 5. lm-plots that provide insights on how 'studytime' of students affect their 'final_grade' differentiated by 'sex' with variations of 'school-support' and 'family-support' (i.e Support factor)
 ![Test Image 6](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Insight_lmplot_3.png)
 
-## By:
-## Aditya Prasad Tripathy
-## 1701106508
-## Branch - Information Technology
-## CET, BBSR
+### By:
+### Aditya Prasad Tripathy
+### 1701106508
+### Branch - Information Technology
+### CET, BBSR
