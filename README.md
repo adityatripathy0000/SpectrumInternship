@@ -6,28 +6,40 @@
 
 ##### Results:
 Train Score:  0.97592
+
 Test Score:  0.96157
+
 Predict Score:  0.99778
 
 ##### Plots:
+
+![Test Image 7](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Final_Task_Plot.png)
 
 #### 2. Decision Tree Regression
 
 ##### Results:
 Train Score:  1.0
+
 Test Score:  0.94715
+
 Predict Score:  1.0
 
 ##### Plots:
+
+![Test Image 8](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Final_Task_Plot_DecisionTree.png)
 
 #### 3. Random Forest Regression
 
 ##### Results:
 Train Score:  0.99602
+
 Test Score:  0.97113
+
 Predict Score:  0.99743
 
 ##### Plots:
+
+![Test Image 9](https://github.com/adityatripathy0000/SpectrumInternship/blob/master/Final_Task/Final_Task_Plot_RandomForest.png)
 
 ## Inferences that can be derived from dataset:
 
