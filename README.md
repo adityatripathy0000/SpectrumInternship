@@ -5,6 +5,7 @@
 In this project, I have built a **Student Grade Prediction Machine Learning Model** based on the student’s data and previous marks.
 
 I imported different libraries like
+    
     1. numpy,
     
     2. pandas,
@@ -24,6 +25,7 @@ And plotted the various insights from the model, I built.
 #### 1. Linear Regression
 
 ##### Results:
+
 Train Score:  0.97592
 
 Test Score:  0.96157
@@ -37,6 +39,7 @@ Predict Score:  0.99778
 #### 2. Decision Tree Regression
 
 ##### Results:
+
 Train Score:  1.0
 
 Test Score:  0.94715
@@ -50,6 +53,7 @@ Predict Score:  1.0
 #### 3. Random Forest Regression
 
 ##### Results:
+
 Train Score:  0.99602
 
 Test Score:  0.97113
