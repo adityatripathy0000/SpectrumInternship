@@ -17,10 +17,16 @@ I imported different libraries like
     5. seaborn.
 
 After that I preprocessed the data in the dataset, and changed the binary valued attributes into 0 or 1, nominal valued attributes into encoded values.
+
 Then used various Machine Learning models like Linear Regression, Decision Tree Regression, Random Forest Regression.
+
 And plotted the various insights from the model, I built.
 
-## Techniques used in Final Task of the internship:
+## Future Development of the Project:
+
+ 1. Develop a 
+
+## Techniques used in Final Task of the Internship:
 
 #### 1. Linear Regression
 
