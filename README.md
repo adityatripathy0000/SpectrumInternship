@@ -6,9 +6,13 @@ In this project, I have built a **Student Grade Prediction Machine Learning Mode
 
 I imported different libraries like
     1. numpy,
+    
     2. pandas,
+    
     3. sklearn,
+    
     4. statsmodel.api,
+    
     5. seaborn.
 
 After that I preprocessed the data in the dataset, and changed the binary valued attributes into 0 or 1, nominal valued attributes into encoded values.
