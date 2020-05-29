@@ -109,6 +109,6 @@ Atlast, in Linear Regression I used Ordinary Least Square(OLS) method for Backwa
 
 ### By:
 ### Aditya Prasad Tripathy
-### 1701106508
+### Regd no. - 1701106508
 ### Branch - Information Technology
 ### CET, BBSR
