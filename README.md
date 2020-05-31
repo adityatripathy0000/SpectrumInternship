@@ -34,7 +34,7 @@ And determined various scores of the the regression like:
         
 Atlast, in Linear Regression I used Ordinary Least Square(OLS) method for Backward Elimination of the attributes to find out which attributes affected the most.
 
-## Important Factors for Predicting:
+## Important attributes for affecting prediction of final_grade:
         1. age,
         2. famrel,
         3. absences,
