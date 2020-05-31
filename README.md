@@ -34,6 +34,13 @@ And determined various scores of the the regression like:
         
 Atlast, in Linear Regression I used Ordinary Least Square(OLS) method for Backward Elimination of the attributes to find out which attributes affected the most.
 
+## Important Factors for Predicting:
+        1. age,
+        2. famrel,
+        3. absences,
+        4. G1,
+        5. G2.
+
 ## Future Development of the Project:
 
          1. Develop a web-application using flask api for taking input for the model and predict the output in the html page.
